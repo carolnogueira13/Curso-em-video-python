@@ -20,4 +20,15 @@
 018 - Seno,cosseno e tangente<br>
 019 - Sorteando um item da lista<br>
 020 - Sorteando uma ordem na lista<br>
+021 - Tocando um mp3<br>
+022 - Analisador de textos<br>
+023 - Separando números de um número<br>
+024 - Verificando as primeiras letras de um texto<br>
+025 - Procurando uma string dentro da outra<br>
+026 - Primeira e última ocorrência de uma string<br>
+027 - Primeiro e último nome de uma pessoas<br>
+028 - Jogo de adivinhação V-01<br>
+029 - Radar eletrônico<br>
+030 - Par ou ímpar<br>
+
 </p>
