@@ -1,4 +1,5 @@
-Descrição dos exercícios de Python executados no mundo 1
+# Descrição dos exercícios de Python executados no mundo 1
 
-001 - Deixando tudo prontu
+<p>001 - Deixando tudo pronto<br>
 002 - Respondendo ao usuário
+  </p>
