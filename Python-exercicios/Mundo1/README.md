@@ -30,5 +30,9 @@
 028 - Jogo de adivinhação V-01<br>
 029 - Radar eletrônico<br>
 030 - Par ou ímpar<br>
-
+031 - Custo da viagem<br>
+032 - Ano bissexto<br>
+033 - Maior e menor valores<br>
+034 - Aumentos múltiplos<br>
+035 - Analisando um triângulo V.01
 </p>
