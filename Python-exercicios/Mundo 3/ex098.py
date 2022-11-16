@@ -3,6 +3,14 @@ from time import sleep
 
 
 def contagem(i, f, p):
+    """
+    --> Faz uma contagem e mostra na tela 
+    :param i: início da contagem
+    :param f: fim da contagem
+    :param p: passo da contagem
+    :return: sem returno
+    Função criada por Ana Caroline
+    """
     if p < 0:
         p = -p
     if p == 0:
@@ -27,6 +35,7 @@ def linha():
 
 
 # Programa principal
+help(contagem)
 contagem(1, 10, 1)
 linha()
 contagem(10, 0, 2)
